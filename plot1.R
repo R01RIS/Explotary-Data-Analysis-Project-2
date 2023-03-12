@@ -16,9 +16,3 @@ barplot(totalNEI[, Emissions]
         , names = totalNEI[, year]
         , xlab = "Years", ylab = "Emissions"
         , main = "Emissions over the Years")
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
